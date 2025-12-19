@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+telethon
+aiohttp
+pydantic-settings
+python-multipart
